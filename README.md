@@ -1,9 +1,6 @@
 # Signal-detection-rover
 RC rover project involving detection and decoding of multiple signal types under engineering constraints.
 
-
-# Signal Detection Rover
-
 ## Overview
 This project involved the development of a Wi-Fi–controlled rover capable of detecting and decoding multiple signal types, including radio, infrared, ultrasonic, and magnetic signals. The system combined hardware signal acquisition with processing and control logic to enable reliable detection and interaction through a web-based interface.
 
